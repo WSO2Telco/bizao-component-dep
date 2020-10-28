@@ -1,3 +1,8 @@
+# Bizao Bub component-dep
+Please not that check and compare production version of each component artifact before do any modification. Added ni missing changes from production version
+
+
+Original renadme below
 # Digital Enable Platform (DEP)
 
 
